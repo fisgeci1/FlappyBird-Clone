@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="10456791-aef8-40f5-b7fe-f54069aa04dc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aXX9Hwd3DZhOI0cRyTD8wduouJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/reader" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Controll" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Start">
+    <configuration name="GameFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Draw.GameFrame" />
+      <module name="Flappy Bird Demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GamePanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Draw.GamePanel" />
+      <module name="Flappy Bird Demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Start" />
+      <module name="Flappy Bird Demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Start" />
+        <item itemvalue="Application.GameFrame" />
+        <item itemvalue="Application.GamePanel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10456791-aef8-40f5-b7fe-f54069aa04dc" name="Default Changelist" comment="" />
+      <created>1586882758619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586882758619</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="491" y="95" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1586891922245">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="491" y="95" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1586891922245" />
+    <state x="466" y="141" width="424" height="484" key="FileChooserDialogImpl" timestamp="1586898174969">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="466" y="141" width="424" height="484" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1586898174969" />
+    <state width="1320" height="308" key="GridCell.Tab.0.bottom" timestamp="1586912643412">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="308" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.70.1920.1080@0.0.1366.768" timestamp="1586912643412" />
+    <state width="1320" height="308" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1586898912041" />
+    <state width="1320" height="308" key="GridCell.Tab.0.bottom/0.0.3286.1150@0.0.3286.1150" timestamp="1586901021090" />
+    <state width="1320" height="308" key="GridCell.Tab.0.center" timestamp="1586912643412">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="308" key="GridCell.Tab.0.center/0.0.1366.768/1366.70.1920.1080@0.0.1366.768" timestamp="1586912643412" />
+    <state width="1320" height="308" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1586898912041" />
+    <state width="1320" height="308" key="GridCell.Tab.0.center/0.0.3286.1150@0.0.3286.1150" timestamp="1586901021089" />
+    <state width="1320" height="308" key="GridCell.Tab.0.left" timestamp="1586912643412">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="308" key="GridCell.Tab.0.left/0.0.1366.768/1366.70.1920.1080@0.0.1366.768" timestamp="1586912643412" />
+    <state width="1320" height="308" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1586898912040" />
+    <state width="1320" height="308" key="GridCell.Tab.0.left/0.0.3286.1150@0.0.3286.1150" timestamp="1586901021089" />
+    <state width="1320" height="308" key="GridCell.Tab.0.right" timestamp="1586912643412">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="308" key="GridCell.Tab.0.right/0.0.1366.768/1366.70.1920.1080@0.0.1366.768" timestamp="1586912643412" />
+    <state width="1320" height="308" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1586898912041" />
+    <state width="1320" height="308" key="GridCell.Tab.0.right/0.0.3286.1150@0.0.3286.1150" timestamp="1586901021090" />
+    <state x="172" y="18" key="SettingsEditor" timestamp="1586891555105">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="172" y="18" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1586891555105" />
+    <state x="339" y="210" key="com.intellij.ide.util.TipDialog" timestamp="1586901062411">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="210" key="com.intellij.ide.util.TipDialog/0.0.1366.768/1366.70.1920.1080@0.0.1366.768" timestamp="1586901062411" />
+    <state x="339" y="210" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1586897937438" />
+    <state x="832" y="133" width="1617" height="1016" key="search.everywhere.popup" timestamp="1586900498591">
+      <screen x="0" y="0" width="3286" height="1150" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1586884538427" />
+    <state x="832" y="133" width="1617" height="1016" key="search.everywhere.popup/0.0.3286.1150@0.0.3286.1150" timestamp="1586900498591" />
+  </component>
+</project>
