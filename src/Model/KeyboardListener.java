@@ -24,7 +24,7 @@ public class KeyboardListener implements KeyListener {
     public void keyPressed(KeyEvent e) {
         if (spaceRelesed && e.getKeyCode() == KeyEvent.VK_SPACE) {
             spaceRelesed = false;
-            gameRules.setThrust(-2.5);
+            GameRules.timeOfJump = 5;
         }
     }
 
